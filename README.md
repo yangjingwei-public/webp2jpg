@@ -1,2 +1,2 @@
-# webp2jpg
+# webp2jpg_python
 conversion image webp to jpg
